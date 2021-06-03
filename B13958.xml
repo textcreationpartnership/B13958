@@ -1,0 +1,341 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A letter sent by the French King unto Monsieur de le Verune Liefetenant for his Maiestie at Caen in Normandie, concerning the most happy victory which he obtained against the Leaguers and rebels in his kingdome, vpon the 14. daie of March last past, according to the Romane computation. Wherein is effectually set forth the truth of the Kings proceeding to the said Battaile, and the true number of both the armies, and of those that were drowned, and taken prisoners in the same. Whereunto is adioyned the late agréement of the Lordes and states assembled in the court of Parliament, holden in Normandie since the said fourtéenth daie of March. 1590. / Truely translated according to the French coppie.</title>
+         </titleStmt>
+         <extent>Approx. 20KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B13958</idno><idno type="EEBO-CITATION">99892864</idno>
+  <idno type="VID">190335</idno>
+  <idno type="EEBO-PROQUEST">2240920941</idno>
+  
+            <idno type="STC">STC 13113.5</idno>
+            <idno type="STC">Interim Tract Supplement Guide C.132.h.25[8]</idno>
+            <idno type="PROQUEST">ocm99892864</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99892864e"/>
+            <note>(EEBO-TCP ; phase 2, no. B13958)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 190335)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C20:1[8])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A letter sent by the French King unto Monsieur de le Verune Liefetenant for his Maiestie at Caen in Normandie, concerning the most happy victory which he obtained against the Leaguers and rebels in his kingdome, vpon the 14. daie of March last past, according to the Romane computation. Wherein is effectually set forth the truth of the Kings proceeding to the said Battaile, and the true number of both the armies, and of those that were drowned, and taken prisoners in the same. Whereunto is adioyned the late agréement of the Lordes and states assembled in the court of Parliament, holden in Normandie since the said fourtéenth daie of March. 1590. / Truely translated according to the French coppie.</title>
+               </titleStmt>
+               <extent>[2], 14 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by I. Wolfe for William Wright,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1590.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>With an added title page (p. [7]): An act of Parliament, for the taking of all the goods of al the Leaguers and rebels, thei [sic] complices and adherents, holden at Caen in Normandy vppon the foureteenth day of March last past. 1590. ... London. Printed by I. Wolfe for William Wright. 1590.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">France --  History --  Wars of the Huguenots, 1562-1598 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-01 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text>
+      <group>
+         <text xml:lang="eng">
+            <front>
+               <div type="title_page">
+                  <pb facs="tcp:190335:1"/>
+                  <pb facs="tcp:190335:1"/>
+                  <p>A LETTER SENT by the French King vnto Monsieur de la Verune Liefetenant for his Maiestie at Caen in Normandie, concerning the most happy victory which he obtained against the Leaguers and Rebels in his Kingdome, vpon the 14. daie of March last past, according to the Romane compu<g ref="char:EOLhyphen"/>tation.</p>
+                  <p>Wherein is effectually set forth the truth of the Kings proceeding to the said Battaile, and the true number of both the Armies, and of those that were drowned, and taken prisoners in the same.</p>
+                  <p>Whereunto is adioyned the late agréement of the Lordes and states assembled in the Court of Parliament, holden in Normandie since the said fourtéenth daie of March. 1590.</p>
+                  <p>Truely translated according to the French Coppie.</p>
+                  <p>LONDON Printed by I. Wolfe for William Wright. 1590.</p>
+               </div>
+            </front>
+            <body>
+               <div type="letter">
+                  <pb facs="tcp:190335:2"/>
+                  <pb n="3" facs="tcp:190335:2"/>
+                  <opener>
+                     <salute>
+                        <seg rend="decorInit">M</seg>Onsieur de Verune,</salute>
+                  </opener>
+                  <p>it hath plea<g ref="char:EOLhyphen"/>sed God to giue vnto mee that whereto I had most desire, name<g ref="char:EOLhyphen"/>ly, that I had meanes to giue bat<g ref="char:EOLhyphen"/>taile to my enemies, hauing a sure confidence, that in béeing there hée would graciously assist me for the obtaining of the victorie, as it is come to passe this daie. You haue héeretofore vnderstood, how after the taking of the towne of <hi>Honnefleur,</hi> I came to cause them to raise the siege that they held before the towne of <hi>Mullen,</hi> offering battaile vnto them, which in shew they séemed to accept, they hauing in number twice as many more as I was able to make. But perceiuing they would deser the matter till such time as they might ioyne their forces with the fiue hundred lances which were sent vnto them by the Prince of <hi>Parma,</hi> as they had done oft times before. Afterwarde publishing abroade that they would force me to battell in what place so euer I was, and did thinke to haue recouered an occasion of more aduan<g ref="char:EOLhyphen"/>tage against me, to come to encounter me at the siege which I made before the Citie of <hi>Dreux:</hi> but I was loth they should take the pains to come so farre, but so soone as I was aduertised that they had passed the riuer of Seane, and also that they did turne the head of their battaile towards me, I did resolue with my self, rather to raise my siege then to faile to go méete them before hand: and hauing vnderstoode that they were within sixe leagues (which is twelue miles) of the sayd towne of <hi>Dreux,</hi> I departed on the munday before, and went to lodge at the towne of <hi>Muncon court,</hi> which was thrée leagues from them, there to passe the riuer. On the Tuesdaie I came and lodged my selfe, where willingly they woulde haue lodged also, for their harbingers and mar<g ref="char:EOLhyphen"/>shalles were then come thether to appoint them theyr lodg<g ref="char:EOLhyphen"/>inges</p>
+                  <pb n="4" facs="tcp:190335:3"/>
+                  <p> On the morrowe I did set my selfe in battayle in a verie faire plaine, within one league of the enemie, which playne they had made readie for themselues the day before, whether also they came right soone with their armie, but so farre from me, that I had great aduantage to séeke them so farye of, be<g ref="char:EOLhyphen"/>ing content that they shuld recouer a village néere vnto me, the which they were glad to obtain. The night being come, we were all constrayned to lodge our selues, which wée dyd in the néerest villages about mee. This daie hauing very earlie in the morning made meanes to knowe their intent, and what they would doe, and perceiued that they were all there present, but yet more farther off then they were ye<g ref="char:EOLhyphen"/>sterdaie, I then resolued to approch so néere them, that of ne<g ref="char:EOLhyphen"/>cessitie they must néedes ioyne, as in déede it came to passe, betwéene ten and eleuen of the clock in the forenoone, where they came forward verie brauely, vntill such time as theyr armie was planted in a place somewhat conuenient, where before they had not aduaunced themselues, estéeming it the best and readiest waie to giue the assault. The Battayle was giuen, wherein God woulde haue knowen that his po<g ref="char:EOLhyphen"/>wer is alwaies readie to helpe the right: for in lesse then one houre after, hauing cast forth their choller in two or thrée charges which they had made and abidden, all their horse men, began to take part with y<seg rend="sup">e</seg> King, vtterly forsaking their infanterie, who were a great number, which the Switzers perceiuing, yéelded themselues presently to my mercie, ren<g ref="char:EOLhyphen"/>dering to me the Collonels, Captaines, Souldiers and En<g ref="char:EOLhyphen"/>signes. The Launce-Knightes and French men on theyr side, had not leasure to take this resolution, for there was slaine and rent in péeces more then twelue hundreth of the one, and as many of the other, the rest were taken priso<g ref="char:EOLhyphen"/>ners, and enforced to flie into sundrie wodes and desarte places, there to stande to the mercie of the Countrie men. Of their horse-men there were about nine hundreth or one thousand slaine, besides those that were drowned in passinge
+<pb n="5" facs="tcp:190335:3"/>the riuer of Dury, who were a great number, the rest that were better horst escaped by fight, but it was with greate disorder, hauing lost, both bagge and baggage. My self neuer forsook to follow them in chase, til they came neere <hi>Mantz.</hi> There white Cornette I wonne, and it remaineth with mee, and he which bore it is my prisoner, twelue or fiftéene other Cornettes of their horse men were taken. Twise as many of their Infanterie, al their Artillerie, many Lords pris<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ners, and a greate number slaine, especiallye such as were Commanders, of whom as yet I haue no knowledge, but of this I am certain that amongst the rest, the county <hi>Egmont</hi> who was Generall of all the saide forces, which came thither from Flaunders was slaine. The prisoners all say that their army was foure thousand horse men, and twelue or thirtéene thousand footemen, whereof I am assu<g ref="char:EOLhyphen"/>red the fourth parte is not lefte liuing. As for my parte it was but two thousande horse men and eight thousand foote men, but of these horsemen there came vnto mée since that I was in battaile the tuesday and weddesday sixe hundreth horse. Likewise the last troupe of the nobility of Picardy, conducted vnder the Lord of <hi>Humiers,</hi> being <hi>300.</hi> came vnto me but halfe an howre before the combat began. It is a mi<g ref="char:EOLhyphen"/>raculous worke of God who first gaue me this resolution to assault them, and then by his grace so happely to accomplish the victory: to whom be all glory and praise. And that praise which vnder God is dew vnto mée, I giue vnto my Princes, Officers of the Crowne, Lords and Captaines, and to all the Nobility which I found following the matter with such heate, and imploying themselues so courageously, as their predecessours neuer left more fair ensample to their generosity, then them selues in this had done, to their follo<g ref="char:EOLhyphen"/>wing posteritie, &amp; though I cā not but be greatly contented &amp; satisfide herewith, yet herein I account them like my self, and the rather when they did beholde that I would employ them in no other place then wher my selfe made way before
+<pb n="6" facs="tcp:190335:4"/>them: I haue euer more followed the successe of the victory with my kinsmen the Princes of <hi>Conde,</hi> the duke of <hi>Mon<g ref="char:EOLhyphen"/>pensier,</hi> the Countie of <hi>Saint Paule,</hi> the <hi>Marshall,</hi> the <hi>Grand Priour</hi> of France, <hi>Aumont Trimouille,</hi> the lords of <hi>Giskey</hi> and of <hi>Greury,</hi> and many other Signiours and Captaines, my cossen the Marshell of <hi>Biron</hi> remained in the body of the army to vnderstand newes of mée, which fel out and, as I euer hope wil, prosperously.</p>
+                  <p>You vnderstand by this briefe dispatche how well I fol<g ref="char:EOLhyphen"/>low these good beginnings, especially the ample particulari<g ref="char:EOLhyphen"/>ties of this victory, whereof I was the more desirous in the meane while to aduertise you, as loth to holde you from the pleasure which I know you will conceaue thereof. I pray you imparte these newes to all other my good friends there about you, but aboue all to render thankes to God, whom I pray protect my good Lord of <hi>Veronne</hi> in safety.</p>
+                  <closer>
+                     <dateline>From the Campe at <hi>Rony</hi>
+                        <date>the fouretéenth of March.</date>
+                     </dateline>
+                     <signed>Signed <hi>Henrie.</hi> And vnderneath <hi>Potier.</hi>
+                     </signed>
+                  </closer>
+                  <trailer>And on the superscription. To my Lord <hi>de Verron</hi> my liefetenant in the gouernemente of the Balywicke of <hi>Caen.</hi>
+                  </trailer>
+               </div>
+            </body>
+         </text>
+         <text xml:lang="eng">
+            <front>
+               <div type="title_page">
+                  <pb facs="tcp:190335:4"/>
+                  <p>AN ACT OF PAR<g ref="char:EOLhyphen"/>liament, for the taking of all the goods of al the Leaguers and Rebels, thei complices and adherents, holden at Caen in Normandy vppon the foureteenth day of March last past. 1590.</p>
+                  <p>By the Kings priuiledge.</p>
+                  <p>The true Coppy of that Acte taken out of the re<g ref="char:EOLhyphen"/>gister of the saide Courte of Parliament.</p>
+                  <p>Trulie translated according to the Frenche coppy.</p>
+                  <p>LONDON. Printed by I. Wolfe for William Wright. 1590.</p>
+               </div>
+            </front>
+            <body>
+               <div type="Act_of_Parliament">
+                  <pb facs="tcp:190335:5"/>
+                  <pb n="9" facs="tcp:190335:5"/>
+                  <p>
+                     <seg rend="decorInit">V</seg>Pon the complaint made by the Kings Atturney generall, as also by the de<g ref="char:EOLhyphen"/>crées of his said Maiesty, that the Acte of the Court which was before ordai<g ref="char:EOLhyphen"/>ned and enioyned to the Bailiffes, their deputies and other Officers, for the di<g ref="char:EOLhyphen"/>ligēt procéeding in taking of the goods, moueables and immoueables apertay<g ref="char:EOLhyphen"/>ning to the Leaguers and Rebels their complices and adhe<g ref="char:EOLhyphen"/>rentes, hath since béene neglected, whereby they ought to haue procéeded in the sale of the same moueable Rents &amp; im<g ref="char:EOLhyphen"/>moueables, &amp; to haue all the money so gathered for the goods to the Kings vse. Yet forasmuch as the saide Bailiffes with their deputies, hath so negligently procéeded in this matter vntil this present day, that there hath but little there<g ref="char:EOLhyphen"/>of come to the hands of the Kings receauers, the Kings At<g ref="char:EOLhyphen"/>turney generall hath therefore published the same in the said court of Parliament, and made request that it would please the Lordes and States assembled to graunt redresse therof.</p>
+                  <p>Whereuppon the saide Courte graunting right to the saide request, hath ordained, commaunded, and straightly enioyned all the Bailiffes in their liberties, and their liefete<g ref="char:EOLhyphen"/>nants in their precincts, spéedily setting al other affaires a<g ref="char:EOLhyphen"/>side, to procéede in the taking of the saide goods, moueables and immoueables, debts and duties, with the names and a<g ref="char:EOLhyphen"/>ctiōs of the Leaguers and Rebels, their complices and adhe<g ref="char:EOLhyphen"/>rents, as well ecclesiasticall as ciuill, noble and ignoble, of what qualitie or condition soeuer. And to take all their saide goods and moueables, rents, and immoueables, and to make sale thereof to the vttermost penny, and all the money so ta<g ref="char:EOLhyphen"/>ken to bée paid vnto the Kings receauers in euery seuerall prouince: and the same to be effectualy done without fauour, fraud or deceite, vppon paine that the saide Bailiffes and their deputies for want of the dew execution of the said Act, bée seuerally condempned in the valew and estimation of all
+<pb n="10" facs="tcp:190335:6"/>the moueable remoueables and immoueables so appertai<g ref="char:EOLhyphen"/>ning to the saide Leaguers. And to bée further charged in sending Commissioners at their owne proper coste to be ap<g ref="char:EOLhyphen"/>pointed for the dew execution thereof, according to the true meaning of the saide Act. And to the end that the same may be done effectually, the saide Court of Parliament hath ordained and enioyned all the saide Bailiffes and their depu<g ref="char:EOLhyphen"/>ties, euery moneth to sende into the seuerall Courts of the saide precincts, a true notise in writing of all the goods that they haue taken and solde as well moueables, as rentes and immoueables, and therwith all such somes of money as they haue receaued for the same, to bée paide from time to time to the Kings vse, vppon paine of the Kinges displeasure and such further punishment as by his Maiesty shall bée thought méete. And to the end that no man shall bée ignoraunt of this present Acte, the saide Courte hath ordained that the same shall bée Imprinted and published abroade, and sent to all the saide Bailiffes in their seuerall precinctes: and there published and registred: and the déedes of the saide publica<g ref="char:EOLhyphen"/>tion to be recorded and sette vp in their seuerall Courts, that they may haue daily recourse thereunto when néede shall serue.</p>
+                  <closer>
+                     <dateline>Giuen at the Parliament holden at <hi>Caen</hi> in Nor<g ref="char:EOLhyphen"/>mandy, <date>the fourtéenth day of March. 1590.</date>
+                     </dateline>
+                     <signed>Signed. <hi>Godefroy.</hi>
+                     </signed>
+                  </closer>
+               </div>
+               <div type="poem">
+                  <pb n="11" facs="tcp:190335:6"/>
+                  <head>A Song of thankes giuing for the victorie obtained against those of the League, in the Battaile fought at Saint Andrewes, by Henrie the fourth of that name, King of France and Nauarre.</head>
+                  <head type="sub">Translated out of French.</head>
+                  <lg>
+                     <l>VVHY should I shut in foule obliuions den,</l>
+                     <l>The wonderous works y<seg rend="sup">t</seg> God for vs hath wrought</l>
+                     <l>Nay first I will procure all Christian men,</l>
+                     <l>With humble hearts in déede and secret thought</l>
+                     <l>To render thankes and praises as we ought,</l>
+                     <l>For our deliuerance from the Leaguers rage,</l>
+                     <l>Whose haughtie pride the Lord did soone asswage.</l>
+                  </lg>
+                  <lg>
+                     <l>You golden skies wherein the signes do sit,</l>
+                     <l>Thou earth wherein both townes and towers stand,</l>
+                     <l>You seas whose ebs and flouds surpasseth humane wit,</l>
+                     <l>Hearken a while to that we haue in hand,</l>
+                     <l>True signes of ioy we shew throughout the land,</l>
+                     <l>God by our King hath cast these traitors downe,</l>
+                     <l>Which by rebellion thought to gaine the crowne.</l>
+                  </lg>
+                  <lg>
+                     <l>Like as the Eagle bringeth from her neast,</l>
+                     <l>Her little birdes to gaze against the Sunne,</l>
+                     <l>Thereby to proue the bad ones from the best,</l>
+                     <l>That other foules to her no wrong had done,</l>
+                     <l>So God to trie the faith in vs begunne,</l>
+                     <l>Sent forth our King, and strengthned so his traine,</l>
+                     <l>That he triumphed when his foes were slaine.</l>
+                  </lg>
+                  <lg>
+                     <l>Because they turned truth and iustice out,</l>
+                     <l>And dispossest the Lordes annointed quight</l>
+                     <l>With murthering hand, when that they brought about,</l>
+                     <l>Vntimely death vpon that kingly wight,</l>
+                     <l>For their ambition and their cruell spight,</l>
+                     <pb n="12" facs="tcp:190335:7"/>
+                     <l> Th'immortall God who liues for euermore,</l>
+                     <l>Both life and honor tooke from them therefore.</l>
+                  </lg>
+                  <lg>
+                     <l>Which by our King well executed was</l>
+                     <l>On them, their wines, and children young of age,</l>
+                     <l>Both fire and sword deseruedly dyd passe,</l>
+                     <l>Bloud craueth bloud, nought else may it asswage,</l>
+                     <l>Triumphant Henrie well performed this charge,</l>
+                     <l>His heart, his bloud, and kingly prowesse then</l>
+                     <l>Soone foyld the force of those valnglorious men.</l>
+                  </lg>
+                  <lg>
+                     <l>Their strength was great, their mallice thrée times more,</l>
+                     <l>Their skill and knowledge nothing to be blamed,</l>
+                     <l>Money and munition they had wondrous store,</l>
+                     <l>Their lustie lookes vnlikely to be tamed,</l>
+                     <l>No hope we had of conquest to be gained,</l>
+                     <l>Saue that the Lord did cast them in our handes,</l>
+                     <l>Hartelesse and fearefull of our slender bands.</l>
+                  </lg>
+                  <lg>
+                     <l>Thy secrets Lord vnto thy selfe are knowen,</l>
+                     <l>Our thankfull hearts, we present vnto thée,</l>
+                     <l>The glorie of thy name, shall in our songs be shewen,</l>
+                     <l>And for our King our prayers still shall be,</l>
+                     <l>That in his raigne we may deliuerance sée,</l>
+                     <l>Of all our griefes endured heretofore,</l>
+                     <l>Which we full long in sorrow did deplore.</l>
+                  </lg>
+                  <lg>
+                     <l>Thy workes are endlesse, perfect and holy,</l>
+                     <l>Iustice and iudgement is euer in thy sight,</l>
+                     <l>Thy truth cannot be ouercome by folly,</l>
+                     <l>Thy hand reuenging, grieuously doth smite,</l>
+                     <l>Thou louest iustice and all things vpright,</l>
+                     <l>Sinne and iniquitie thou wilt still confound,</l>
+                     <l>But faithfull men in blessings shall abound.</l>
+                  </lg>
+                  <lg>
+                     <l>To thée O Lord belongeth glorie still,</l>
+                     <l>Victorie is thine, to thée all praise is due,</l>
+                     <pb n="13" facs="tcp:190335:7"/>
+                     <l> My songs shall shew thy wonders, and thy will,</l>
+                     <l>That babes vnborne thy praises may renew,</l>
+                     <l>Such rare effects comes seldome in our view,</l>
+                     <l>We fought the field with courage bolde and frée,</l>
+                     <l>But Lord we graunt, that victorie come by thée,</l>
+                  </lg>
+                  <trailer>FINIS</trailer>
+               </div>
+               <div type="poem">
+                  <head>A new Dittie of the state of France, according to <hi>the French Dittie.</hi>
+                  </head>
+                  <lg>
+                     <l>
+                        <hi>O</hi> Poore distressed Church of Christ,</l>
+                     <l>To whom shalt thou impart,</l>
+                     <l>What wrong the Leaguers offer thée,</l>
+                     <l>To wound and grieue thy hart,</l>
+                     <l>Which grieuous thraldome, as I find,</l>
+                     <l>Springs through thy vnbeleeuing mind.</l>
+                  </lg>
+                  <lg>
+                     <l>Mourne and lament for thy great sinne,</l>
+                     <l>In humble wise seeke God to please,</l>
+                     <l>That God if so thou doe begin,</l>
+                     <l>These bloudie warres can soone appease,</l>
+                     <l>And from thy straight captiuitie,</l>
+                     <l>Restore thee to thy libertie.</l>
+                  </lg>
+                  <lg>
+                     <l>He doth behold the haughtie pride,</l>
+                     <l>Of those that are thy enemies,</l>
+                     <l>And all their glorie which is vaine,</l>
+                     <l>He setteth now before his eies,</l>
+                     <l>Who by the puisance of his power,</l>
+                     <l>Will ouerthrow them in an houre.</l>
+                  </lg>
+                  <lg>
+                     <l>Well though thy members forced be,</l>
+                     <l>On earth afflictions for to beare:</l>
+                     <l>Though they and theirs by meanes of warre,</l>
+                     <l>Are robd and spoilde and put in feare,</l>
+                     <l>Be sure thy griefe shall shortly feare:</l>
+                     <l>And God with spéede will send thée peace.</l>
+                  </lg>
+                  <lg>
+                     <pb n="14" facs="tcp:190335:8"/>
+                     <l>And though on earth thy ioy bée small.</l>
+                     <l>Take courage now feare not their rage,</l>
+                     <l>For doubtlesse in the heauens aboue,</l>
+                     <l>God hath prepard thy heritage:</l>
+                     <l>Where thou with him shalt euer dwell,</l>
+                     <l>In endlesse ioyes that doth excell.</l>
+                  </lg>
+                  <lg>
+                     <l>Vnto our royall crowned kings,</l>
+                     <l>Great wrong the League hath long time don,</l>
+                     <l>And grieuous broiles hath raised ofte,</l>
+                     <l>Our countrey still to ouerron.</l>
+                     <l>And would performe on <hi>Burbons</hi> race,</l>
+                     <l>As to the <hi>Valoyes</hi> late in place.</l>
+                  </lg>
+                  <lg>
+                     <l>In prayer for thy King remayne,</l>
+                     <l>Pray that God geue him strength and might,</l>
+                     <l>The faith of Christ still to maintayne,</l>
+                     <l>Gainst foes for to defend his right.</l>
+                     <l>That all the Rebels may craue truce,</l>
+                     <l>Of our braue Prince and Floure de Luce.</l>
+                  </lg>
+                  <lg>
+                     <l>For hée a valiaunt king is found,</l>
+                     <l>Hée liues in loue and feare of God,</l>
+                     <l>Hée strikes his ennemies to the ground,</l>
+                     <l>And to them is a scourging rod,</l>
+                     <l>As at this day appeared right:</l>
+                     <l>Where God him selfe for him did fight.</l>
+                  </lg>
+                  <lg>
+                     <l>Tremble thou League and <hi>Gwizes</hi> grudge.</l>
+                     <l>For doubtlesse God on you doth lower,</l>
+                     <l>Thinke not to scape his dreadfull scurdge:</l>
+                     <l>You shall bée punisht by his power,</l>
+                     <l>For maugre them and all their might,</l>
+                     <l>The King was strongest in the fight.</l>
+                  </lg>
+                  <trailer>FINIS.</trailer>
+                  <pb facs="tcp:190335:8"/>
+               </div>
+            </body>
+         </text>
+      </group>
+   </text>
+</TEI>
